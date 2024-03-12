@@ -1,0 +1,55 @@
+[INFO] 12-03-2024 17:56:51 [main] [LogUtils] - Running test case fillFormDataJson_Validation
+[ERROR] 12-03-2024 17:56:52 [main] [LogUtils] - Test case fillFormDataJson_Validation is skipped.
+[ERROR] 12-03-2024 17:56:52 [main] [LogUtils] - java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because the return value of "drivers.DriverManager.getDriver()" is null
+[INFO] 12-03-2024 17:56:52 [main] [LogUtils] - Running test case fillFormDataJson_Validation
+[ERROR] 12-03-2024 17:56:52 [main] [LogUtils] - Test case fillFormDataJson_Validation is skipped.
+[ERROR] 12-03-2024 17:56:52 [main] [LogUtils] - java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because the return value of "drivers.DriverManager.getDriver()" is null
+[INFO] 12-03-2024 17:56:52 [main] [LogUtils] - Running test case fillFormDataExcel_Validation
+[ERROR] 12-03-2024 17:56:52 [main] [LogUtils] - Test case fillFormDataExcel_Validation is skipped.
+[ERROR] 12-03-2024 17:56:52 [main] [LogUtils] - java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because the return value of "drivers.DriverManager.getDriver()" is null
+[INFO] 12-03-2024 17:56:52 [main] [LogUtils] - Running test case fillFormDataExcel_Validation
+[ERROR] 12-03-2024 17:56:52 [main] [LogUtils] - Test case fillFormDataExcel_Validation is skipped.
+[ERROR] 12-03-2024 17:56:52 [main] [LogUtils] - java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because the return value of "drivers.DriverManager.getDriver()" is null
+[INFO] 12-03-2024 17:56:52 [main] [LogUtils] - Running test case fillForm_EmptyName
+[ERROR] 12-03-2024 17:56:52 [main] [LogUtils] - Test case fillForm_EmptyName is skipped.
+[ERROR] 12-03-2024 17:56:52 [main] [LogUtils] - java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because the return value of "drivers.DriverManager.getDriver()" is null
+[INFO] 12-03-2024 17:56:52 [main] [LogUtils] - Running test case checkPlaceHolder
+[ERROR] 12-03-2024 17:56:52 [main] [LogUtils] - Test case checkPlaceHolder is skipped.
+[ERROR] 12-03-2024 17:56:52 [main] [LogUtils] - java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because the return value of "drivers.DriverManager.getDriver()" is null
+[INFO] 12-03-2024 17:57:04 [main] [LogUtils] - Running test case addProductToCartByIndex
+[INFO] 12-03-2024 17:57:07 [main] [LogUtils] - Click on element By.id: com.androidsample.generalstore:id/appbar_btn_cart
+[INFO] 12-03-2024 17:57:07 [main] [LogUtils] - Running test case addProductToCartByName
+[INFO] 12-03-2024 17:57:31 [main] [LogUtils] - Running test case fillFormDataJson_Validation
+[INFO] 12-03-2024 17:57:36 [main] [LogUtils] - Click on element By.id: com.androidsample.generalstore:id/radioMale
+[INFO] 12-03-2024 17:57:37 [main] [LogUtils] - Click on element By.id: com.androidsample.generalstore:id/spinnerCountry
+[INFO] 12-03-2024 17:57:39 [main] [LogUtils] - Click on element By.xpath: //android.widget.TextView[@text='Argentina']
+[INFO] 12-03-2024 17:57:39 [main] [LogUtils] - Click on element By.id: com.androidsample.generalstore:id/btnLetsShop
+[INFO] 12-03-2024 17:57:39 [main] [LogUtils] - Running test case fillFormDataJson_Validation
+[INFO] 12-03-2024 17:57:45 [main] [LogUtils] - Click on element By.id: com.androidsample.generalstore:id/radioMale
+[INFO] 12-03-2024 17:57:45 [main] [LogUtils] - Click on element By.id: com.androidsample.generalstore:id/spinnerCountry
+[INFO] 12-03-2024 17:57:47 [main] [LogUtils] - Click on element By.xpath: //android.widget.TextView[@text='Argentina']
+[INFO] 12-03-2024 17:57:47 [main] [LogUtils] - Click on element By.id: com.androidsample.generalstore:id/btnLetsShop
+[INFO] 12-03-2024 17:57:48 [main] [LogUtils] - Running test case fillFormDataExcel_Validation
+[INFO] 12-03-2024 17:57:53 [main] [LogUtils] - Click on element By.id: com.androidsample.generalstore:id/radioMale
+[INFO] 12-03-2024 17:57:54 [main] [LogUtils] - Click on element By.id: com.androidsample.generalstore:id/spinnerCountry
+[INFO] 12-03-2024 17:57:55 [main] [LogUtils] - Click on element By.xpath: //android.widget.TextView[@text='Argentina']
+[INFO] 12-03-2024 17:57:55 [main] [LogUtils] - Running test case fillFormDataExcel_Validation
+[INFO] 12-03-2024 17:58:01 [main] [LogUtils] - Click on element By.id: com.androidsample.generalstore:id/radioFemale
+[INFO] 12-03-2024 17:58:01 [main] [LogUtils] - Click on element By.id: com.androidsample.generalstore:id/spinnerCountry
+[INFO] 12-03-2024 17:58:03 [main] [LogUtils] - Click on element By.xpath: //android.widget.TextView[@text='Argentina']
+[INFO] 12-03-2024 17:58:03 [main] [LogUtils] - Running test case fillForm_EmptyName
+[INFO] 12-03-2024 17:58:07 [main] [LogUtils] - Click on element By.id: com.androidsample.generalstore:id/radioFemale
+[INFO] 12-03-2024 17:58:08 [main] [LogUtils] - Click on element By.id: com.androidsample.generalstore:id/spinnerCountry
+[INFO] 12-03-2024 17:58:13 [main] [LogUtils] - Click on element By.xpath: //android.widget.TextView[@text='Aruba']
+[INFO] 12-03-2024 17:58:13 [main] [LogUtils] - Click on element By.id: com.androidsample.generalstore:id/btnLetsShop
+[INFO] 12-03-2024 17:58:14 [main] [LogUtils] - Running test case checkPlaceHolder
+[INFO] 12-03-2024 17:58:28 [main] [LogUtils] - Running test case addProductToCartByIndex
+[INFO] 12-03-2024 17:58:31 [main] [LogUtils] - Click on element By.id: com.androidsample.generalstore:id/appbar_btn_cart
+[INFO] 12-03-2024 17:58:31 [main] [LogUtils] - Running test case addProductToCartByName
+[INFO] 12-03-2024 17:58:43 [main] [LogUtils] - Click on element By.id: com.androidsample.generalstore:id/appbar_btn_cart
+[INFO] 12-03-2024 17:58:53 [main] [LogUtils] - Running test case navigateToWeb
+[INFO] 12-03-2024 17:58:55 [main] [LogUtils] - Click on element By.id: com.androidsample.generalstore:id/appbar_btn_cart
+[INFO] 12-03-2024 17:58:59 [main] [LogUtils] - Click on element By.id: android:id/button1
+[INFO] 12-03-2024 17:59:00 [main] [LogUtils] - Click on element By.className: android.widget.CheckBox
+[INFO] 12-03-2024 17:59:01 [main] [LogUtils] - Click on element By.id: com.androidsample.generalstore:id/btnProceed
+[INFO] 12-03-2024 17:59:10 [main] [LogUtils] - End testing End to end Framework Test

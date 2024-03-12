@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <listeners>
+        <listener class-name="report.ExtentTestNGListener"/>
+    </listeners>
+
+    <test thread-count="2" name="End to end Framework Test">
+        <classes>
+            <class name="testcases.FormTest"> </class>
+            <class name="testcases.ProductTest"> </class>
+            <class name="testcases.CartTest"> </class>
+
+        </classes>
+    </test>
+
+</suite> <!-- Suite -->
